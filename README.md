@@ -1,4 +1,4 @@
-# ChatboTelegram
+# ChatbotTelegram
 
 Abra o Telegram e pesquise por "BotFather".
    Use o comando /newbot e siga as instruções para criar seu bot.
