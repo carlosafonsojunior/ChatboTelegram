@@ -8,9 +8,11 @@ Configuração do ambiente:
    Certifique-se de ter o Node.js instalado.
    Crie um novo projeto e inicialize o npm
 
-utilizando bahs 
-   
+utilizando bahs:   
    mkdir telegram-bot
    cd telegram-bot
    npm init -y
    npm install node-telegram-bot-api
+
+Como Rodar:
+    Execute o bot no terminal
