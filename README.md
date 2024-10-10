@@ -15,4 +15,5 @@ utilizando bahs:
    npm install node-telegram-bot-api
 
 Como Rodar:
-    Execute o bot no terminal
+    Execute o bot no terminal-
+    node bot.js
